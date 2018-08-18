@@ -5,7 +5,7 @@ def reverse_each_word(string)
   end
   puts new_array
   array = string.chars
-  puts array 
+  puts array
 end 
 
 reverse_each_word("Mary has a little lamb")
